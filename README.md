@@ -11,30 +11,6 @@
     <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt="CodeByStella"/></a>
 </p>
 
-<ul align="left">
-  <li>
-    &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>I’m currently learning</b> Merkle proofs, advanced smart contract security, and gas optimizations.
-  </li>
-  <li>
-    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.
-  </li>
-  <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/DevCollab">Expanding my developer community on Telegram</a>.
-  </li>
-  <li>
-    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/StellaShowcase">@StellaShowcase</a>.
-  </li>
-  <li>
-    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots.
-  </li>
-  <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:nextblock.dev@gmail.com">nextblock.dev@gmail.com</a> or <a href="https://t.me/StellaRay777">@StellaRay777</a>
-  </li>
-  <li>
-    &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
-  </li>
-</ul>
-
 <table align="center">
   <tr>
     <td align="center" width="103">
