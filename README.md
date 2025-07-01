@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=nicolomati&label=Profile%20views&color=0e75b6&style=flat" alt="nicolomati" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=nicolomati&label=Profile%20views&color=0e75b6&style=flat" alt="NicoloMati" />
 </div>
 
 <h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of GitHub.</h1>
@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" />
 </p>
 <p align="center">  
-    <a href="https://github.com/nicolomati?tab=achievements"><img src="https://github-trophies.vercel.app/?username=nicolomati&theme=onestar&no-frame=true&column=6&row=2"   alt="nicolomati"/></a>
+    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt="CodeByStella"/></a>
 </p>
 
 <table align="center">
@@ -93,11 +93,11 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/nicolomati?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nicolomati&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/>
+  <a href="https://github.com/CodeByStella?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CodeByStella&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/nicolomati?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolomati&theme=gotham&hide_border=true"  width="49%" alt="GitHub Streak"/>
+  <a href="https://github.com/CodeByStella?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeByStella&theme=gotham&hide_border=true"  width="49%" alt="GitHub Streak"/>
   </a>
 </p>
 
